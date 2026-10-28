@@ -1,0 +1,25 @@
+
+body {
+    background-color: #f4f7fb;
+    font-family: Arial, sans-serif;
+    min-height: 100vh;
+}
+
+.tracker-card {
+    max-width: 650px;
+    border: none;
+    border-radius: 14px;
+}
+
+h1 {
+    font-weight: 700;
+    color: #172554;
+}
+
+.list-group-item {
+    overflow-wrap: anywhere;
+}
+
+footer {
+    font-size: 14px;
+}
